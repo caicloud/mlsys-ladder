@@ -309,7 +309,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 [才云科技]: https://caicloud.io/
 [GluonCV]: https://gluon-cv.mxnet.io/
 [网易深度学习工程师微专业]: https://mooc.study.163.com/smartSpec/detail/1001319001.htm
-[2017 斯坦福李飞飞视觉识别课程]: https://study.163.com/course/introduction.htm?courseId=1004697005&_trace_c_p_k2_=186f7182b63648daa0d42d0058413cc0
+[2017 斯坦福李飞飞视觉识别课程]: https://cloud.tencent.com/edu/learning/course-1039-690
 [第一课-神经网络和深度学习]: https://mooc.study.163.com/course/2001281002#/info
 [CS231n-Assignment-1]: http://cs231n.github.io/assignments2019/assignment1/
 [网友的开源解答]: https://github.com/MahanFathi/CS231
